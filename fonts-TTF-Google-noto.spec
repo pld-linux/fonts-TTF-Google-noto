@@ -1,13 +1,14 @@
 Summary:	Hinted and Non Hinted open type fonts for Unicode scripts
 Name:		fonts-TTF-Google-noto
 Version:	20141001
-Release:	0.1
+Release:	1
 License:	Apache v2.0
 Group:		Fonts
 URL:		https://code.google.com/p/noto
 # Downloaded from github zip
-Source0:	https://noto.googlecode.com/archive/396bf23e32cf53820681144e109270ae1f4ee7c3.zip
-# Source0-md5:	3eee834e511ab6f1c55d8fecc8f95576
+# Source0:	https://noto.googlecode.com/archive/396bf23e32cf53820681144e109270ae1f4ee7c3.zip
+Source0:	396bf23e32cf53820681144e109270ae1f4ee7c3.zip
+# Source0-md5:	a4b58c64f483c8e482d66189eb15b4f7
 
 Source2:	66-google-noto-sans.conf
 Source3:	66-google-noto-sans-armenian.conf
