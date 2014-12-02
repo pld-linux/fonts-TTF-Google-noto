@@ -1,3 +1,7 @@
+# TODO:
+# - package CJK fonts, sync with FC:
+#   http://pkgs.fedoraproject.org/cgit/google-noto-fonts.git/commit/?id=02622a9a239c5be9d33b80540798d6104150cf1e
+#
 Summary:	Hinted and Non Hinted open type fonts for Unicode scripts
 Name:		fonts-TTF-Google-noto
 Version:	20141001
