@@ -5,7 +5,7 @@
 Summary:	Hinted and Non Hinted open type fonts for Unicode scripts
 Name:		fonts-TTF-Google-noto
 Version:	20141001
-Release:	3
+Release:	4
 License:	Apache v2.0
 Group:		Fonts
 URL:		https://code.google.com/p/noto
